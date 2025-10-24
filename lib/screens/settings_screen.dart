@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:medimind/l10n/app_localizations.dart';
+import 'package:tomei/l10n/app_localizations.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
@@ -127,7 +127,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
       final jsonString = jsonEncode(data);
       
       final directory = await getExternalStorageDirectory();
-      final file = File('${directory!.path}/medimind_backup_${DateTime.now().millisecondsSinceEpoch}.json');
+      final file = File('${directory!.path}/tomei_backup_${DateTime.now().millisecondsSinceEpoch}.json');
       await file.writeAsString(jsonString);
 
       if (context.mounted) {

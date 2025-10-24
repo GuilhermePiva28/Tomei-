@@ -101,7 +101,7 @@ abstract class AppLocalizations {
   /// No description provided for @appName.
   ///
   /// In en, this message translates to:
-  /// **'MediMind'**
+  /// **'Tomei?'**
   String get appName;
 
   /// No description provided for @myCalendar.
@@ -455,7 +455,7 @@ abstract class AppLocalizations {
   /// No description provided for @aboutDescription.
   ///
   /// In en, this message translates to:
-  /// **'MediMind helps you remember to take your medications with offline reminders and local storage.'**
+  /// **'Tomei? helps you remember to take your medications with offline reminders and local storage.'**
   String get aboutDescription;
 
   /// No description provided for @adherenceStats.

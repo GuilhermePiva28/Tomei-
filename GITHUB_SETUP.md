@@ -6,8 +6,8 @@
 2. Clique no botão **"+"** no canto superior direito
 3. Selecione **"New repository"**
 4. Configure o repositório:
-   - **Repository name**: `MediMind`
-   - **Description**: `Complete medication reminder app with offline notifications, color picker, and multilingual support`
+   - **Repository name**: `Tomei`
+   - **Description**: `Complete medication reminder app with offline notifications, color picker, and multilingual support - "Did I take it?" in Portuguese`
    - **Visibility**: Escolha **Public** ou **Private**
    - **NÃO** marque "Add a README file" (já temos um)
    - **NÃO** marque "Add .gitignore" (já temos um)
@@ -20,7 +20,7 @@ Após criar o repositório, o GitHub mostrará comandos. Use estes comandos no t
 
 ```bash
 # Adicionar o remote do GitHub (substitua SEU_USUARIO pelo seu nome de usuário)
-git remote add origin https://github.com/SEU_USUARIO/MediMind.git
+git remote add origin https://github.com/SEU_USUARIO/Tomei.git
 
 # Enviar o código para o GitHub
 git push -u origin main
@@ -28,13 +28,13 @@ git push -u origin main
 
 **Exemplo:**
 ```bash
-git remote add origin https://github.com/guilherme/MediMind.git
+git remote add origin https://github.com/guilherme/Tomei.git
 git push -u origin main
 ```
 
 ## Passo 3: Verificar
 
-1. Acesse `https://github.com/SEU_USUARIO/MediMind`
+1. Acesse `https://github.com/SEU_USUARIO/Tomei`
 2. Você deve ver todos os arquivos e o README.md formatado
 
 ## 📝 Comandos Git Úteis para o Futuro

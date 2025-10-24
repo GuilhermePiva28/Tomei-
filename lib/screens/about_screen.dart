@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:medimind/l10n/app_localizations.dart';
+import 'package:tomei/l10n/app_localizations.dart';
 
 class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
@@ -74,7 +74,7 @@ class AboutScreen extends StatelessWidget {
                         ),
                   ),
                   const SizedBox(height: 8),
-                  const Text('MediMind Team'),
+                  const Text('Tomei? Team'),
                 ],
               ),
             ),

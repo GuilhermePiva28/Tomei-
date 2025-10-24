@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:medimind/models/medication.dart';
+import 'package:tomei/models/medication.dart';
 
 void main() {
   group('Medication Model Tests', () {

@@ -1,5 +1,5 @@
-name: medimind
-description: A Flutter medication reminder app with offline support
+name: tomei
+description: A Flutter medication reminder app with offline support - "Did I take it?" in Portuguese
 publish_to: 'none'
 version: 1.0.0+1
 

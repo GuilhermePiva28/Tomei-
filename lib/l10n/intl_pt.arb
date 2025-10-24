@@ -1,6 +1,6 @@
 {
   "@@locale": "pt",
-  "appName": "MediMind",
+  "appName": "Tomei?",
   "myCalendar": "Meu Calendário",
   "myMedications": "Meus Medicamentos",
   "settings": "Configurações",
@@ -69,7 +69,7 @@
   "appVersion": "Versão",
   "developer": "Desenvolvedor",
   "license": "Licença",
-  "aboutDescription": "MediMind ajuda você a lembrar de tomar seus medicamentos com lembretes offline e armazenamento local.",
+  "aboutDescription": "Tomei? ajuda você a lembrar de tomar seus medicamentos com lembretes offline e armazenamento local.",
   "adherenceStats": "Estatísticas de Adesão",
   "weeklyAdherence": "Adesão Semanal",
   "monday": "Segunda-feira",

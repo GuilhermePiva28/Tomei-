@@ -1,6 +1,6 @@
 {
   "@@locale": "en",
-  "appName": "MediMind",
+  "appName": "Tomei?",
   "myCalendar": "My Calendar",
   "myMedications": "My Medications",
   "settings": "Settings",
@@ -69,7 +69,7 @@
   "appVersion": "Version",
   "developer": "Developer",
   "license": "License",
-  "aboutDescription": "MediMind helps you remember to take your medications with offline reminders and local storage.",
+  "aboutDescription": "Tomei? helps you remember to take your medications with offline reminders and local storage.",
   "adherenceStats": "Adherence Statistics",
   "weeklyAdherence": "Weekly Adherence",
   "monday": "Monday",

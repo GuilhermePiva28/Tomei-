@@ -1,4 +1,4 @@
-package com.medimind.app
+package com.tomei.app
 
 import io.flutter.embedding.android.FlutterActivity
 

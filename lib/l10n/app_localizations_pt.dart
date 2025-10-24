@@ -9,7 +9,7 @@ class AppLocalizationsPt extends AppLocalizations {
   AppLocalizationsPt([String locale = 'pt']) : super(locale);
 
   @override
-  String get appName => 'MediMind';
+  String get appName => 'Tomei?';
 
   @override
   String get myCalendar => 'Meu Calendário';
@@ -191,7 +191,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get aboutDescription =>
-      'MediMind ajuda você a lembrar de tomar seus medicamentos com lembretes offline e armazenamento local.';
+      'Tomei? ajuda você a lembrar de tomar seus medicamentos com lembretes offline e armazenamento local.';
 
   @override
   String get adherenceStats => 'Estatísticas de Adesão';

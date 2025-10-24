@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:medimind/l10n/app_localizations.dart';
+import 'package:tomei/l10n/app_localizations.dart';
 
 import '../providers/medication_provider.dart';
 import '../models/medication.dart';

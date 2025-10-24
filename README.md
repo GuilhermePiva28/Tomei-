@@ -1,6 +1,6 @@
-# MediMind 💊
+# Tomei? 💊
 
-**MediMind** is a complete medication reminder app built with Flutter. It helps users remember to take their medications with offline reminders, stores all data locally, and works without any backend or internet connection.
+**Tomei?** is a complete medication reminder app built with Flutter. It helps users remember to take their medications with offline reminders, stores all data locally, and works without any backend or internet connection.
 
 ## 🌟 Features
 
@@ -250,7 +250,7 @@ flutter run
 ### Database Issues
 ```bash
 # Clear app data on device/emulator
-adb shell pm clear com.medimind.app
+adb shell pm clear com.tomei.app
 ```
 
 ## 📄 License
@@ -259,7 +259,7 @@ MIT License - Feel free to use this project for learning or commercial purposes.
 
 ## 👨‍💻 Developer
 
-**MediMind Team**
+**Tomei? Team**
 
 ## 🤝 Contributing
 
@@ -302,6 +302,9 @@ Potential future features:
 - [ ] iOS support
 
 ## ✨ Recent Updates (v1.0.0)
+
+### App Renamed
+- 📱 **Tomei?** - New app name reflecting the Portuguese question "Did I take it?"
 
 ### New Features
 - 🎨 **Color Picker** - Choose from 12 colors to identify medications visually
